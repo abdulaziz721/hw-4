@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+}
+.standoff {
+    background-color: black;
+    height: 400px;
+}
+.standoff:hover{
+    border-radius: 100%;
+    background-color: red;
+}
+.pubg {
+background-color:brown;
+height: 300px;
+}
+.pubg:hover{
+    background-color: black;
+}
+.freefire {
+    background-color: blue;
+    height: 300px;
+}
+.rounded {
+    border-radius: 100%;
+}
+#kop1:hover {
+color: blue;
+font-size: 20px;
+}
+.lol:hover {
+    color: brown;
+    font-size: 30px;
+}
